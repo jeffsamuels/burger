@@ -1,0 +1,26 @@
+
+
+.body {
+  background-image: url(../../public/assets/img/burgertime.jpg);
+  background-color: rgb(9, 16, 214)
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #dd820b;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .update-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(12, 12, 231);
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
